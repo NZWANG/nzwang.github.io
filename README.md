@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Dr. Nizhuan Wang Homepage
 
 You can use the [editor on GitHub](https://github.com/NZWANG/nzwang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
